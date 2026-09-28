@@ -29,7 +29,7 @@ The analysis covers:
 - Student type
 - National high school ranking
 
-## Dashboard
+## Dashboard - link: https://public.tableau.com/views/NYCHIghSchoolAnalyticsDashboard-V1_17906244951820/FinalDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 <img width="1846" height="822" alt="image" src="https://github.com/user-attachments/assets/86c4db75-5a34-48d7-9538-bec3cf58c0bc" />
 
 The Tableau dashboard provides interactive views of school performance using filters and coordinated visualizations.

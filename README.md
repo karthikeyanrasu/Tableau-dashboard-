@@ -30,6 +30,7 @@ The analysis covers:
 - National high school ranking
 
 ## Dashboard
+<img width="1846" height="822" alt="image" src="https://github.com/user-attachments/assets/86c4db75-5a34-48d7-9538-bec3cf58c0bc" />
 
 The Tableau dashboard provides interactive views of school performance using filters and coordinated visualizations.
 
@@ -88,5 +89,4 @@ NYC-High-School-Analytics-Dashboard/
 │   └── Tableau workbook
 │
 └── screenshots/
-    └── dashboard screenshots<img width="1846" height="823" alt="Screenshot 2026-09-28 163146" src="https://github.com/user-attachments/assets/fac8979f-7d09-4767-aadf-47dbe5f9f386" />
-![Uploading image.png…]()
+    └── dashboard screenshots
